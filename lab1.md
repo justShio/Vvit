@@ -5,7 +5,7 @@
 #include <cstdint>
 #include <bitset>
 
-using namespace std;
+using namespace std; 
 
 uint32_t ipToUint(const string& ip) {
     vector<int> octets;
